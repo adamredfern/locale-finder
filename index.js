@@ -1,4 +1,4 @@
-const geoip = require("geoip-lite");
+const geoip = require("geoip-country");
 
 exports.handler = async (event) => {
   const ip = event["requestContext"]["http"]["sourceIp"];

@@ -10,6 +10,6 @@
   "author": "Adam Redfern",
   "license": "ISC",
   "dependencies": {
-    "geoip-lite": "^1.4.2"
+    "geoip-country": "^4.0.84"
   }
 }
